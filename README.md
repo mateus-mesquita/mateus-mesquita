@@ -34,17 +34,23 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+<br>
+<div align="center">
+  <table style="border:none; border-collapse:collapse; border-spacing:0; margin:0; padding:0; width:100%;">
+    <tr>
+      <td align="center" style="border:none; padding:0; width:50%;">
+        <img align="center" style="padding:0; width:100%;" src="https://github-readme-stats.vercel.app/api/?username=fhugomp&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true&icon_color=7159c1&hide_rank=false&rank_icon=github&count_private=true&locale=pt-br" alt="fhugomp's stats" />
+      </td>
+      <td align="center" style="border:none; padding:0; width:50%;">
+        <img align="center" style="padding:0; width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhugomp&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true&icon_color=7159c1&count_private=true&locale=pt-br" alt="fhugomp's most languages"/>
+      </td>
+    </tr>
+  </table>
+  
+  <img width="70%" style="margin-top:0; padding:0;" src="https://github-readme-streak-stats.herokuapp.com/?user=fhugomp&theme=tokyonight&hide_border=true&background=0D1117&ring=7159c1&fire=7159c1&currStreakLabel=7159c1&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </div>
+<br>
+
 
 ###
 
