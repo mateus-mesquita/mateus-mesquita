@@ -39,10 +39,10 @@
   <table style="border:none; border-collapse:collapse; border-spacing:0; margin:0; padding:0; width:100%;">
     <tr>
       <td align="center" style="border:none; padding:0; width:50%;">
-        <img align="center" style="padding:0; width:100%;" src="https://github-readme-stats.vercel.app/api/?username=fhugomp&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true&icon_color=7159c1&hide_rank=false&rank_icon=github&count_private=true&locale=pt-br" alt="fhugomp's stats" />
+        <img align="center" style="padding:0; width:100%;" src="https://github-readme-stats.vercel.app/api/?username=fhugomp&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true&icon_color=7159c1&hide_rank=false&rank_icon=github&count_private=true&locale=pt-br" alt="mateus-mesquita's stats" />
       </td>
       <td align="center" style="border:none; padding:0; width:50%;">
-        <img align="center" style="padding:0; width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhugomp&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true&icon_color=7159c1&count_private=true&locale=pt-br" alt="fhugomp's most languages"/>
+        <img align="center" style="padding:0; width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhugomp&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true&icon_color=7159c1&count_private=true&locale=pt-br" alt="mateus-mesquita's most languages"/>
       </td>
     </tr>
   </table>
