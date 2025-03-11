@@ -1,3 +1,17 @@
+# 👋 Olá, seja bem-vindo ao meu GitHub!
+
+## 🔥 Sobre mim  
+🎯 Apaixonado por **estatística, programação e criação de algoritmos**.  
+📊 Explorando **Python, R, C++, PostgreSQL e Jupyter** para resolver problemas de dados e modelagem matemática.  
+🚀 Buscando sempre aprimorar minhas habilidades em **mineração de dados, probabilidade e álgebra linear**.  
+
+## ⚡ Tecnologias e Ferramentas  
+🔹 **Linguagens:** Python, C++, R, SQL  
+🔹 **Banco de Dados:** PostgreSQL, Sqlite  
+🔹 **Interesses:** Algoritmos, Machine Learning, Estatística, Análise de Dados  
+
+----
+💡 *"A matemática e a programação são ferramentas para entender o mundo."*
 ----
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -20,3 +34,9 @@
 <br>
 
 ---
+###
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateus-mesquita&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
