@@ -14,6 +14,10 @@
 💡 *"A matemática e a programação são ferramentas para entender o mundo."*
 ----
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mateus-mesquita.mateus-mesquita&"  />
+</div>
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <br>
