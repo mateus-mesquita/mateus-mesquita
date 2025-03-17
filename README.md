@@ -27,7 +27,7 @@
         <img src="https://github-readme-stats.vercel.app/api/?username=mateus-mesquita&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true&icon_color=7159c1&hide_rank=false&rank_icon=github&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-mesquita&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true&icon_color=7159c1&count_private=true&locale=pt-br" alt="Linguagens mais usadas" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-mesquita&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true&icon_color=7159c1&count_private=false&locale=pt-br" alt="Linguagens mais usadas" />
       </td>
     </tr>
   </table>
