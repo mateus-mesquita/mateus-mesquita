@@ -19,8 +19,16 @@
 </div>
 
 ## ⚙️ &nbsp;GitHub Analytics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-mesquita&hide_progress=true)
----
+
+<div style="display: flex; gap: 20px;">
+  <a href="https://github.com/mateus-mesquita">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-mesquita&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+  <a href="https://github.com/mateus-mesquita">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus-mesquita&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+
 
 ### 📊 Atividade Recente  
 <div align="center">
