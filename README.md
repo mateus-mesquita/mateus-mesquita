@@ -20,17 +20,11 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/?username=mateus-mesquita&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true&icon_color=7159c1&hide_rank=false&rank_icon=github&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-mesquita&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true&icon_color=7159c1&count_private=true&locale=pt-br" alt="Linguagens mais usadas" />
-      </td>
-    </tr>
-  </table>
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-mesquita&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus-mesquita&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
   
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mateus-mesquita&theme=tokyonight&hide_border=true&background=0D1117&ring=7159c1&fire=7159c1&currStreakLabel=7159c1&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
